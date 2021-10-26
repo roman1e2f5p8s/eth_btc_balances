@@ -1,0 +1,402 @@
+[
+  {
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "eth_balance": "8139444100912755404537950"
+  },
+  {
+    "address": "0x00000000219ab540356cbb839cbe05303d7705fa",
+    "eth_balance": "8011266000069000000000069"
+  },
+  {
+    "address": "0xbe0eb53f46cd790cd13851d5eff43d12404d33e8",
+    "eth_balance": "2296896435802719281561433"
+  },
+  {
+    "address": "0x73bceb1cd57c711feac4224d062b0f6ff338501e",
+    "eth_balance": "1874773482834293881366027"
+  },
+  {
+    "address": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
+    "eth_balance": "1499807939352563320024361"
+  },
+  {
+    "address": "0x9bf4001d307dfd62b26a2f1307ee0c0307632d59",
+    "eth_balance": "1390000016622009141375000"
+  },
+  {
+    "address": "0x53d284357ec70ce289d6d64134dfac8e511c8a3d",
+    "eth_balance": "1378734066321521411481302"
+  },
+  {
+    "address": "0xc61b9bb3a7a0767e3179713f3a5c7a9aedce193c",
+    "eth_balance": "1120020760463680861530138"
+  },
+  {
+    "address": "0x61edcdf5bb737adffe5043706e7c5bb1f1a56eea",
+    "eth_balance": "929498953581340000000001"
+  },
+  {
+    "address": "0xc098b2a3aa256d2140208c3de6543aaef5cd3a94",
+    "eth_balance": "689689003484860016840239"
+  },
+  {
+    "address": "0x1b3cb81e51011b549d78bf720b0d924ac763a7c2",
+    "eth_balance": "560000000065000000000000"
+  },
+  {
+    "address": "0xf66852bc122fd40bfecc63cd48217e88bda12109",
+    "eth_balance": "542211521771486169361000"
+  },
+  {
+    "address": "0xdc24316b9ae028f1497c275eb9192a3ea0f67022",
+    "eth_balance": "532547299865143207110004"
+  },
+  {
+    "address": "0xe853c56864a2ebe4576a807d26fdc4a0ada51919",
+    "eth_balance": "465197595932569594886000"
+  },
+  {
+    "address": "0xe92d1a43df510f82c66382592a047d288f85226f",
+    "eth_balance": "450000050085726438778778"
+  },
+  {
+    "address": "0x8484ef722627bf18ca5ae6bcf031c23e6e922b30",
+    "eth_balance": "420533979610550258413966"
+  },
+  {
+    "address": "0xdf9eb223bafbe5c5271415c75aecd68c21fe3d7f",
+    "eth_balance": "415476714845442765965783"
+  },
+  {
+    "address": "0xa929022c9107643515f5c777ce9a910f0d1e490c",
+    "eth_balance": "411787012000000000000000"
+  },
+  {
+    "address": "0xde0b295669a9fd93d5f28d9ec85e40f4cb697bae",
+    "eth_balance": "374868436783144397866641"
+  },
+  {
+    "address": "0x220866b1a2219f40e72f5c628b65d54268ca3a9d",
+    "eth_balance": "325000913595280000000010"
+  },
+  {
+    "address": "0xca8fa8f0b631ecdb18cda619c4fc9d197c8affca",
+    "eth_balance": "325000480017070240350400"
+  },
+  {
+    "address": "0x011b6e24ffb0b5f5fcc564cf4183c5bbbc96d515",
+    "eth_balance": "322992255018646380705413"
+  },
+  {
+    "address": "0x3bfc20f0b9afcace800d73d2191166ff16540258",
+    "eth_balance": "306276635361399926202000"
+  },
+  {
+    "address": "0x8103683202aa8da10536036edef04cdd865c225e",
+    "eth_balance": "275000027419999999999999"
+  },
+  {
+    "address": "0x07ee55aa48bb72dcc6e9d78256648910de513eca",
+    "eth_balance": "262741111484627140000001"
+  },
+  {
+    "address": "0x0a4c79ce84202b03e95b7a692e5d728d83c44c76",
+    "eth_balance": "254248453916940000000000"
+  },
+  {
+    "address": "0x2b6ed29a95753c3ad948348e3e7b1a251080ffb9",
+    "eth_balance": "250000017045971329543721"
+  },
+  {
+    "address": "0xa7efae728d2936e78bda97dc267687568dd593f3",
+    "eth_balance": "249007630827438869750871"
+  },
+  {
+    "address": "0x66f820a414680b5bcda5eeca5dea238543f42054",
+    "eth_balance": "236499791779805945276777"
+  },
+  {
+    "address": "0x2fe0260b44eac48cfe4f3bb1ba380bbe2979b468",
+    "eth_balance": "227371494345443614535500"
+  },
+  {
+    "address": "0xbddf00563c9abd25b576017f08c46982012f12be",
+    "eth_balance": "220032895569000000000000"
+  },
+  {
+    "address": "0x9845e1909dca337944a0272f1f9f7249833d2d19",
+    "eth_balance": "220001000000000000000000"
+  },
+  {
+    "address": "0x189b9cbd4aff470af2c0102f365fc1823d857965",
+    "eth_balance": "219881614631933651575503"
+  },
+  {
+    "address": "0x59448fe20378357f206880c58068f095ae63d5a5",
+    "eth_balance": "215368755910440000000000"
+  },
+  {
+    "address": "0xf977814e90da44bfa03b6295a0616a897441acec",
+    "eth_balance": "211984080611710815466299"
+  },
+  {
+    "address": "0xdc1487e092caba080c6badafaa75a58ce7a2ec34",
+    "eth_balance": "206902995493512434340543"
+  },
+  {
+    "address": "0x558553d54183a8542f7832742e7b4ba9c33aa1e6",
+    "eth_balance": "200000663247000000000000"
+  },
+  {
+    "address": "0x98ec059dc3adfbdd63429454aeb0c990fba4a128",
+    "eth_balance": "200000107035971329543721"
+  },
+  {
+    "address": "0x40f0d6fb7c9ddd9cbc1c02a208380c08cf77189b",
+    "eth_balance": "199580321715139003028729"
+  },
+  {
+    "address": "0xd65bd7f995bcc3bdb2ea2f8ff7554a61d1bf6e53",
+    "eth_balance": "197570955254713395946452"
+  },
+  {
+    "address": "0x7712bdab7c9559ec64a1f7097f36bc805f51ff1a",
+    "eth_balance": "196919689735125968697724"
+  },
+  {
+    "address": "0x19184ab45c40c2920b0e0e31413b9434abd243ed",
+    "eth_balance": "191967174179467275477801"
+  },
+  {
+    "address": "0x1db92e2eebc8e0c075a02bea49a2935bcd2dfcf4",
+    "eth_balance": "191815141626855201997926"
+  },
+  {
+    "address": "0xf774da4418c6dca3051f0e7570829b24214e730b",
+    "eth_balance": "189000489450538025886221"
+  },
+  {
+    "address": "0x90a9e09501b70570f9b11df2a6d4f047f8630d6d",
+    "eth_balance": "188297684275697640931090"
+  },
+  {
+    "address": "0xa160cdab225685da1d56aa342ad8841c3b53f291",
+    "eth_balance": "187100000000000000000000"
+  },
+  {
+    "address": "0xbf3aeb96e164ae67e763d9e050ff124e7c3fdd28",
+    "eth_balance": "187068195590000000000000"
+  },
+  {
+    "address": "0xb8808f9e9b88497ec522304055cd537a0913f6a0",
+    "eth_balance": "185852593721977408633531"
+  },
+  {
+    "address": "0xb29380ffc20696729b7ab8d093fa1e2ec14dfe2b",
+    "eth_balance": "177960318985416405775782"
+  },
+  {
+    "address": "0x28c6c06298d514db089934071355e5743bf21d60",
+    "eth_balance": "177599183359507092892774"
+  },
+  {
+    "address": "0xd69b0089d9ca950640f5dc9931a41a5965f00303",
+    "eth_balance": "177500048166409072697035"
+  },
+  {
+    "address": "0x36a85757645e8e8aec062a1dee289c7d615901ca",
+    "eth_balance": "177328307659680000000000"
+  },
+  {
+    "address": "0xa7e4fecddc20d83f36971b67e13f1abc98dfcfa6",
+    "eth_balance": "172038067196753900234436"
+  },
+  {
+    "address": "0x7da82c7ab4771ff031b66538d2fb9b0b047f6cf9",
+    "eth_balance": "170034343113247593314478"
+  },
+  {
+    "address": "0x5b5b69f4e0add2df5d2176d7dbd20b4897bc7ec4",
+    "eth_balance": "169031993519583935970841"
+  },
+  {
+    "address": "0x0c23fc0ef06716d2f8ba19bc4bed56d045581f2d",
+    "eth_balance": "163400000000000000000000"
+  },
+  {
+    "address": "0xcdbf58a9a9b54a2c43800c50c7192946de858321",
+    "eth_balance": "161300097030000000000911"
+  },
+  {
+    "address": "0x3ba25081d3935fcc6788e6220abcace39d58d95d",
+    "eth_balance": "157738105878661066223609"
+  },
+  {
+    "address": "0xfd898a0f677e97a9031654fc79a27cb5e31da34a",
+    "eth_balance": "150000100000000000000000"
+  },
+  {
+    "address": "0xa8dcc0373822b94d7f57326be24ca67bafcaad6b",
+    "eth_balance": "150000001000000000000000"
+  },
+  {
+    "address": "0x4b4a011c420b91260a272afd91e54accdafdfc1d",
+    "eth_balance": "150000001000000000000000"
+  },
+  {
+    "address": "0x367989c660881e1ca693730f7126fe0ffc0963fb",
+    "eth_balance": "150000001000000000000000"
+  },
+  {
+    "address": "0x844ada2ed8ecd77a1a9c72912df0fcb8b8c495a7",
+    "eth_balance": "150000000000000000001822"
+  },
+  {
+    "address": "0x9c2fc4fc75fa2d7eb5ba9147fa7430756654faa9",
+    "eth_balance": "150000000000000000000912"
+  },
+  {
+    "address": "0x8b83b9c4683aa4ec897c569010f09c6d04608163",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0xb9fa6e54025b4f0829d8e1b42e8b846914659632",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0xc4cf565a5d25ee2803c9b8e91fc3d7c62e79fe69",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0x0c05ec4db907cfb91b2a1a29e7b86688b7568a6d",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0xb8b6fe7f357adeab950ac6c270ce340a46989ce1",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0x9cf36e93a8e2b1eaaa779d9965f46c90b820048c",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0xe35b0ef92452c353dbb93775e0df97cedf873c72",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0x19d599012788b991ff542f31208bab21ea38403e",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0x7145cfedcf479bede20c0a4ba1868c93507d5786",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0x550cd530bc893fc6d2b4df6bea587f17142ab64e",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0x9a1ed80ebc9936cee2d3db944ee6bd8d407e7f9f",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0x4756eeebf378046f8dd3cb6fa908d93bfd45f139",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0xa0efb63be0db8fc11681a598bf351a42a6ff50e0",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0x828103b231b39fffce028562412b3c04a4640e64",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0xe04cf52e9fafa3d9bf14c407afff94165ef835f7",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0x091933ee1088cdf5daace8baec0997a4e93f0dd6",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0x701c484bfb40ac628afa487b6082f084b14af0bd",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0xba18ded5e0d604a86428282964ae0bb249ceb9d0",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0xca582d9655a50e6512045740deb0de3a7ee5281f",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0x7ae92148e79d60a0749fd6de374c8e81dfddf792",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0x554f4476825293d4ad20e02b54aca13956acc40a",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0x0f00294c6e4c30d9ffc0557fec6c586e6f8c3935",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0x77afe94859163abf0b90725d69e904ea91446c7b",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0xb8cda067fabedd1bb6c11c626862d7255a2414fe",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0xfe01a216234f79cfc3bea7513e457c6a9e50250d",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0x0e86733eab26cfcc04bb1752a62ec88e910b4cf5",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0xeddf8eb4984cc27407a568cae1c78a1ddb0c2c1b",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0x0ff64c53d295533a37f913bb78be9e2adc78f5fe",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0xeb2b00042ce4522ce2d1aacee6f312d26c4eb9d6",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0x0518f5bb058f6215a0ff5f4df54dae832d734e04",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0xb20411c403687d1036e05c8a7310a0f218429503",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0xd05e6bf1a00b5b4c9df909309f19e29af792422b",
+    "eth_balance": "150000000000000000000000"
+  },
+  {
+    "address": "0x2fa9f9efc767650aace0422668444c3ff63e1f8d",
+    "eth_balance": "148531712314039277849931"
+  },
+  {
+    "address": "0xd57479b8287666b44978255f1677e412d454d4f0",
+    "eth_balance": "147699424503407102942053"
+  },
+  {
+    "address": "0xc6dcb7ac175636cbc3d5f32c68865c24ca7d74d4",
+    "eth_balance": "146193135946942359419293"
+  },
+  {
+    "address": "0x4baf012726cb5ec7dda57bc2770798a38100c44d",
+    "eth_balance": "145000098394974456674400"
+  }
+]

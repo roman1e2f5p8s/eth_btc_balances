@@ -1,0 +1,502 @@
+[
+  {
+    "address": "34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo",
+    "type": "scripthash",
+    "balance": "28812620998495"
+  },
+  {
+    "address": "bc1qgdjqv0av3q56jvd82tkdjpy7gdp9ut8tlqmgrpmv24sq90ecnvqqjwvw97",
+    "type": "witness_v0_scripthash",
+    "balance": "17801098544936"
+  },
+  {
+    "address": "1P5ZEDWTKTFGxQjZphgWPQUpe554WKDfHQ",
+    "type": "pubkeyhash",
+    "balance": "10635457436265"
+  },
+  {
+    "address": "37XuVSEpWW4trkfmvWzegTHQt7BdktSKUs",
+    "type": "scripthash",
+    "balance": "9450511406719"
+  },
+  {
+    "address": "38UmuUqPCrFmQo4khkomQwZ4VbY2nZMJ67",
+    "type": "scripthash",
+    "balance": "9356602192816"
+  },
+  {
+    "address": "1FeexV6bAHb8ybZjqQMjJrcCrHGW9sb6uF",
+    "type": "pubkeyhash",
+    "balance": "7995721592429"
+  },
+  {
+    "address": "3Kzh9qAqVWQhEsfQz7zEQL1EuSx5tyNLNS",
+    "type": "scripthash",
+    "balance": "7708576099025"
+  },
+  {
+    "address": "3LYJfcfHPXYJreMsASk2jkn69LWEYKzexb",
+    "type": "scripthash",
+    "balance": "7360113647202"
+  },
+  {
+    "address": "bc1qa5wkgaew2dkv56kfvj49j0av5nml45x9ek9hz6",
+    "type": "witness_v0_keyhash",
+    "balance": "6937017554055"
+  },
+  {
+    "address": "1LdRcdxfbSnmCYYNdeYpUnztiYzVfBEQeC",
+    "type": "pubkeyhash",
+    "balance": "5388006062367"
+  },
+  {
+    "address": "1AC4fMwgY8j9onSbXEWeH6Zan8QGMSdmtA",
+    "type": "pubkeyhash",
+    "balance": "5183035995333"
+  },
+  {
+    "address": "1LruNZjwamWJXThX2Y8C2d47QqhAkkc5os",
+    "type": "pubkeyhash",
+    "balance": "4400008617726"
+  },
+  {
+    "address": "3Gpex6g5FPmYWm26myFq7dW12ntd8zMcCY",
+    "type": "scripthash",
+    "balance": "4001396038553"
+  },
+  {
+    "address": "bc1q5shngj24323nsrmxv99st02na6srekfctt30ch",
+    "type": "witness_v0_keyhash",
+    "balance": "4000032768183"
+  },
+  {
+    "address": "385cR5DM96n1HvBDMzLHPYcw89fZAXULJP",
+    "type": "scripthash",
+    "balance": "3900186721087"
+  },
+  {
+    "address": "1NDyJtNTjmwk5xPNhjgAMu4HDHigtobu1s",
+    "type": "pubkeyhash",
+    "balance": "3821081229043"
+  },
+  {
+    "address": "3LQUu4v9z6KNch71j7kbj8GPeAGUo1FW6a",
+    "type": "scripthash",
+    "balance": "3792697744959"
+  },
+  {
+    "address": "159QgP4Ewvadjc4HDpaaR6pir2R4ZfzVfQ",
+    "type": "pubkeyhash",
+    "balance": "3790955901550"
+  },
+  {
+    "address": "3FpYfDGJSdkMAvZvCrwPHDqdmGqUkTsJys",
+    "type": "scripthash",
+    "balance": "3773602262190"
+  },
+  {
+    "address": "bc1q7ydrtdn8z62xhslqyqtyt38mm4e2c4h3mxjkug",
+    "type": "witness_v0_keyhash",
+    "balance": "3600041000054"
+  },
+  {
+    "address": "12XqeqZRVkBDgmPLVY4ZC6Y4ruUUEug8Fx",
+    "type": "pubkeyhash",
+    "balance": "3235400000564"
+  },
+  {
+    "address": "3LCGsSmfr24demGvriN4e3ft8wEcDuHFqh",
+    "type": "scripthash",
+    "balance": "3199270609150"
+  },
+  {
+    "address": "bc1q5pucatprjrqltdp58f92mhqkfuvwpa43vhsjwpxlryude0plzyhqjkqazp",
+    "type": "witness_v0_scripthash",
+    "balance": "3142498793451"
+  },
+  {
+    "address": "3FHNBLobJnbCTFTVakh5TXmEneyf5PT61B",
+    "type": "scripthash",
+    "balance": "3127534535966"
+  },
+  {
+    "address": "12ib7dApVFvg82TXKycWBNpN8kFyiAN1dr",
+    "type": "pubkeyhash",
+    "balance": "3100007016737"
+  },
+  {
+    "address": "bc1qx9t2l3pyny2spqpqlye8svce70nppwtaxwdrp4",
+    "type": "witness_v0_keyhash",
+    "balance": "2886174281507"
+  },
+  {
+    "address": "12tkqA9xSoowkzoERHMWNKsTey55YEBqkv",
+    "type": "pubkeyhash",
+    "balance": "2815105837084"
+  },
+  {
+    "address": "17MWdxfjPYP2PYhdy885QtihfbW181r1rn",
+    "type": "pubkeyhash",
+    "balance": "2449535042970"
+  },
+  {
+    "address": "19D5J8c59P2bAkWKvxSYw8scD3KUNWoZ1C",
+    "type": "pubkeyhash",
+    "balance": "2396900153670"
+  },
+  {
+    "address": "19iqYbeATe4RxghQZJnYVFU4mjUUu76EA6",
+    "type": "pubkeyhash",
+    "balance": "2379064639672"
+  },
+  {
+    "address": "1aXzEKiDJKzkPxTZy9zGc3y1nCDwDPub2",
+    "type": "pubkeyhash",
+    "balance": "2363051814302"
+  },
+  {
+    "address": "3FupZp77ySr7jwoLYEJ9mwzJpvoNBXsBnE",
+    "type": "scripthash",
+    "balance": "2293384099067"
+  },
+  {
+    "address": "1932eKraQ3Ad9MeNBHb14WFQbNrLaKeEpT",
+    "type": "pubkeyhash",
+    "balance": "2289999043553"
+  },
+  {
+    "address": "bc1qqnt4td9a8xqrqtswvf6n27x0p8n948l2fgye3r6f3yk2d9838scs77ptr3",
+    "type": "witness_v0_scripthash",
+    "balance": "2249982166890"
+  },
+  {
+    "address": "1MDq7zyLw6oKichbFiDDZ3aaK59byc6CT8",
+    "type": "pubkeyhash",
+    "balance": "2240000007661"
+  },
+  {
+    "address": "3M219KR5vEneNb47ewrPfWyb5jQ2DjxRP6",
+    "type": "scripthash",
+    "balance": "2088800000000"
+  },
+  {
+    "address": "3DVJfEsDTPkGDvqPCLC41X85L1B1DQWDyh",
+    "type": "scripthash",
+    "balance": "2043315517099"
+  },
+  {
+    "address": "3HSMPBUuAPQf6CU5B3qa6fALrrZXswHaF1",
+    "type": "scripthash",
+    "balance": "2018491289756"
+  },
+  {
+    "address": "bc1qtw30nantkrh7y5ue73gm4mmy0zezfqxug3psr94sd967qwg7f76scfmr9p",
+    "type": "witness_v0_scripthash",
+    "balance": "2013623538292"
+  },
+  {
+    "address": "17rm2dvb439dZqyMe2d4D6AQJSgg6yeNRn",
+    "type": "pubkeyhash",
+    "balance": "2000800192617"
+  },
+  {
+    "address": "1PeizMg76Cf96nUQrYg8xuoZWLQozU5zGW",
+    "type": "pubkeyhash",
+    "balance": "1941443070193"
+  },
+  {
+    "address": "38FkZJ32qaNTieBFUVHqQS1LQAZK8VFKkx",
+    "type": "scripthash",
+    "balance": "1879999657552"
+  },
+  {
+    "address": "35pgGeez3ou6ofrpjt8T7bvC9t6RrUK4p6",
+    "type": "scripthash",
+    "balance": "1850919340543"
+  },
+  {
+    "address": "bc1q4jchcr7nla277su5lpjzttxp3xg5j8wds5lcwg",
+    "type": "witness_v0_keyhash",
+    "balance": "1722505104626"
+  },
+  {
+    "address": "3H5JTt42K7RmZtromfTSefcMEFMMe18pMD",
+    "type": "scripthash",
+    "balance": "1678594800029"
+  },
+  {
+    "address": "34HpHYiyQwg69gFmCq2BGHjF1DZnZnBeBP",
+    "type": "scripthash",
+    "balance": "1630654651480"
+  },
+  {
+    "address": "1LixNYA5WNosrVmrQJbm7rUXTWNxZaqGR2",
+    "type": "pubkeyhash",
+    "balance": "1609471271755"
+  },
+  {
+    "address": "1GR9qNz7zgtaW5HwwVpEJWMnGWhsbsieCG",
+    "type": "pubkeyhash",
+    "balance": "1574555597771"
+  },
+  {
+    "address": "35ULMyVnFoYaPaMxwHTRmaGdABpAThM4QR",
+    "type": "scripthash",
+    "balance": "1570500118088"
+  },
+  {
+    "address": "3DGtXJwybqHZ9dtuPsxwEBvHvtsiebQMNR",
+    "type": "scripthash",
+    "balance": "1509988234076"
+  },
+  {
+    "address": "3PxWk9ZUSKfdJHSAvFb4yhi5hjtenZxpWX",
+    "type": "scripthash",
+    "balance": "1499999999160"
+  },
+  {
+    "address": "1KUr81aewyTFUfnq4ZrpePZqXixd59ToNn",
+    "type": "pubkeyhash",
+    "balance": "1499999866299"
+  },
+  {
+    "address": "3BMEXxSMT2b2kvsnC4Q35d2kKJZ4u9bSLh",
+    "type": "scripthash",
+    "balance": "1480498005700"
+  },
+  {
+    "address": "3BMEXqGpG4FxBA1KWhRFufXfSTRgzfDBhJ",
+    "type": "scripthash",
+    "balance": "1477012560373"
+  },
+  {
+    "address": "39gUvGynQ7Re3i15G3J2gp9DEB9LnLFPMN",
+    "type": "scripthash",
+    "balance": "1459306794820"
+  },
+  {
+    "address": "3EMVdMehEq5SFipQ5UfbsfMsH223sSz9A9",
+    "type": "scripthash",
+    "balance": "1419929081156"
+  },
+  {
+    "address": "1BZaYtmXka1y3Byi2yvXCDG92Tjz7ecwYj",
+    "type": "pubkeyhash",
+    "balance": "1400000070980"
+  },
+  {
+    "address": "bc1qvpgyac88vqtslewxu7yu9dqwp8rd83zch55zpm3xgn3mgg72w3kqv0s8qa",
+    "type": "witness_v0_scripthash",
+    "balance": "1362998397000"
+  },
+  {
+    "address": "1D2B7zfX6HgnuG7bMT1znFMsGdqX97Fnon",
+    "type": "pubkeyhash",
+    "balance": "1357128000000"
+  },
+  {
+    "address": "1F3Cpgben5uRAMptnPRL9coAbKp9YmWqfb",
+    "type": "pubkeyhash",
+    "balance": "1330999125000"
+  },
+  {
+    "address": "bc1q4vxn43l44h30nkluqfxd9eckf45vr2awz38lwa",
+    "type": "witness_v0_keyhash",
+    "balance": "1300302066414"
+  },
+  {
+    "address": "3ETUmNhL2JuCFFVNSpk8Bqx2eorxyP9FVh",
+    "type": "scripthash",
+    "balance": "1288626768191"
+  },
+  {
+    "address": "bc1qpy4jwethqenp4r7hqls660wy8287vw0my32lmy",
+    "type": "witness_v0_keyhash",
+    "balance": "1259440614549"
+  },
+  {
+    "address": "bc1qujmfpqzgz208d0uycpjyx8uad2ddjuqut70ttpz35gs2n6gflguqajk8d3",
+    "type": "witness_v0_scripthash",
+    "balance": "1200638327154"
+  },
+  {
+    "address": "3GWUKxq55XsQ7rkzbxAgfSyf6KHp8Ljh3R",
+    "type": "scripthash",
+    "balance": "1200000203128"
+  },
+  {
+    "address": "1F34duy2eeMz5mSrvFepVzy7Y1rBsnAyWC",
+    "type": "pubkeyhash",
+    "balance": "1077053467928"
+  },
+  {
+    "address": "bc1qt4h06ssqtwncv5rtf8c8v53emwmvr9j5peq9quj9vf0jzu2egnxqpesxny",
+    "type": "witness_v0_scripthash",
+    "balance": "1070499986150"
+  },
+  {
+    "address": "bc1q080rkmk3kj86pxvf5nkxecdrw6nrx3zzy9xl7q",
+    "type": "witness_v0_keyhash",
+    "balance": "1059800001641"
+  },
+  {
+    "address": "bc1qhd0r5kh3u9mhac7de58qd2rdfx4kkv84kpx302",
+    "type": "witness_v0_keyhash",
+    "balance": "1049999911443"
+  },
+  {
+    "address": "bc1qjh0akslml59uuczddqu0y4p3vj64hg5mc94c40",
+    "type": "witness_v0_keyhash",
+    "balance": "1029651455577"
+  },
+  {
+    "address": "bc1qzhpuphvclm0qujk34qc7tyhlevcj6g325m4szu",
+    "type": "witness_v0_keyhash",
+    "balance": "1005877403837"
+  },
+  {
+    "address": "1f1miYFQWTzdLiCBxtHHnNiW7WAWPUccr",
+    "type": "pubkeyhash",
+    "balance": "1000926274150"
+  },
+  {
+    "address": "bc1qsxdxm0exqdsmnl9ejrz250xqxrxpxkgf5nhhtq",
+    "type": "witness_v0_keyhash",
+    "balance": "1000174073770"
+  },
+  {
+    "address": "1BAFWQhH9pNkz3mZDQ1tWrtKkSHVCkc3fV",
+    "type": "pubkeyhash",
+    "balance": "1000007740276"
+  },
+  {
+    "address": "14YK4mzJGo5NKkNnmVJeuEAQftLt795Gec",
+    "type": "pubkeyhash",
+    "balance": "1000003453076"
+  },
+  {
+    "address": "1Ki3WTEEqTLPNsN5cGTsMkL2sJ4m5mdCXT",
+    "type": "pubkeyhash",
+    "balance": "1000002511674"
+  },
+  {
+    "address": "1KbrSKrT3GeEruTuuYYUSQ35JwKbrAWJYm",
+    "type": "pubkeyhash",
+    "balance": "1000001625412"
+  },
+  {
+    "address": "1P1iThxBH542Gmk1kZNXyji4E4iwpvSbrt",
+    "type": "pubkeyhash",
+    "balance": "1000001251028"
+  },
+  {
+    "address": "12tLs9c9RsALt4ockxa1hB4iTCTSmxj2me",
+    "type": "pubkeyhash",
+    "balance": "1000001132515"
+  },
+  {
+    "address": "1ucXXZQSEf4zny2HRwAQKtVpkLPTUKRtt",
+    "type": "pubkeyhash",
+    "balance": "1000001028295"
+  },
+  {
+    "address": "1CPaziTqeEixPoSFtJxu74uDGbpEAotZom",
+    "type": "pubkeyhash",
+    "balance": "1000001028219"
+  },
+  {
+    "address": "1LfV1tSt3KNyHpFJnAzrqsLFdeD2EvU1MK",
+    "type": "pubkeyhash",
+    "balance": "1000000240116"
+  },
+  {
+    "address": "3DwVjwVeJa9Z5Pu15WHNfKcDxY5tFUGfdx",
+    "type": "scripthash",
+    "balance": "1000000022642"
+  },
+  {
+    "address": "1BHbSQJDVoeSdyBdSJfRu7x5SFsLNvxTfw",
+    "type": "pubkeyhash",
+    "balance": "1000000000547"
+  },
+  {
+    "address": "1EU2pMence1UfifCco2UHJCdoqorAtpT7",
+    "type": "pubkeyhash",
+    "balance": "999999964767"
+  },
+  {
+    "address": "1JaUiAyoRXr4kqxm3ZQP5uFZmF57bkqXbu",
+    "type": "pubkeyhash",
+    "balance": "997531942691"
+  },
+  {
+    "address": "bc1qlkdlchlylfdkspvevnlqqlmt4l222hwva2z3n7",
+    "type": "witness_v0_keyhash",
+    "balance": "990597138233"
+  },
+  {
+    "address": "bc1qg6kqkkaexnxpvle8w3zy5j7w4k9uz5rqmrx5lw",
+    "type": "witness_v0_keyhash",
+    "balance": "990496470901"
+  },
+  {
+    "address": "bc1qqdykm85ycxjqjh5hrkwmewts02mm6ku5rlck3m",
+    "type": "witness_v0_keyhash",
+    "balance": "990434110371"
+  },
+  {
+    "address": "bc1qgc5h9vz0zp4cmlxuw0h6jgryetq08e4twen03f",
+    "type": "witness_v0_keyhash",
+    "balance": "990345878492"
+  },
+  {
+    "address": "bc1qxv55wuzz4qsfgss3uq2zwg5y88d7qv5hg67d2d",
+    "type": "witness_v0_keyhash",
+    "balance": "990135874316"
+  },
+  {
+    "address": "17GAbQ5DSqnEhyrMMLd9yaraAmVyvoZJ3Z",
+    "type": "pubkeyhash",
+    "balance": "990087096156"
+  },
+  {
+    "address": "1Cus9pZdkckCz23bDAsKMY6aLSQ7CmuHyw",
+    "type": "pubkeyhash",
+    "balance": "990087096156"
+  },
+  {
+    "address": "1MLsZmbT3mgmm6zLkTR26yJHVfn8BSdqqd",
+    "type": "pubkeyhash",
+    "balance": "990087096156"
+  },
+  {
+    "address": "bc1qmjpguunz9lc7h6zf533wtjc70ync94ptnrjqmk",
+    "type": "witness_v0_keyhash",
+    "balance": "990064196062"
+  },
+  {
+    "address": "bc1qyr9dsfyst3epqycghpxshfmgy8qfzadfhp8suk",
+    "type": "witness_v0_keyhash",
+    "balance": "990045178622"
+  },
+  {
+    "address": "bc1q8qg2eazryu9as20k3hveuvz43thp200g7nw7qy",
+    "type": "witness_v0_keyhash",
+    "balance": "990009834101"
+  },
+  {
+    "address": "bc1q4ffskt6879l4ewffrrflpykvphshl9la4q037h",
+    "type": "witness_v0_keyhash",
+    "balance": "989536977012"
+  },
+  {
+    "address": "bc1qa56lzf7d05ttur003zmuzwrgl3x0qau5zm2qzn",
+    "type": "witness_v0_keyhash",
+    "balance": "988771411620"
+  },
+  {
+    "address": "134ooU6EQmCFFzEPN7yga3S1XikcBtynco",
+    "type": "pubkeyhash",
+    "balance": "986670228038"
+  }
+]
